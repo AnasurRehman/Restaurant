@@ -2,7 +2,7 @@
   "name": "restaurant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anasurrehman.github.io/AurehRestaurant",
+  "homepage": "https://AnasurRehman.github.io/Restaurant",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
